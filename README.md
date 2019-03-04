@@ -2,7 +2,7 @@
 
 Hey there!
 
-This is my version of the first challenge of Wes Bos' JavaScript30 course. It's a project where the user can press some keyboards and get drum kit sound effects.
+This is my version of the first challenge of [Wes Bos' JavaScript30](https://javascript30.com/) course. It's a project where the user can press some keyboards and get drum kit sound effects.
 
 Some of the new things I learned:
 
