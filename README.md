@@ -14,6 +14,6 @@ Some of the new things I learned:
 
 Even though I followed closely Bos' tutorial, I also made some personal modifications according to my coding style.
 
-I'm sure there's a lot of improvement to be made, so please don't hesitate to open an issue or open a PR! :)
+I'm sure there's a lot of improvement to be made, so please don't hesitate to open an issue or send a PR! :)
 
 Enjoy!!
