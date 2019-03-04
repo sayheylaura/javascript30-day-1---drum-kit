@@ -6,6 +6,10 @@ function handleKeyDown(event) {
   const audioEl = document.querySelector(`audio[data-key="${keyCode}"]`);
 
   playSound(audioEl);
+
+  const keyElement = document.querySelector(`.key[data-key="${keyCode}"]`);
+
+  keyElement.classList.add('playing');
 }
 
 function playSound(audio) {
